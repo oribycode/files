@@ -4,35 +4,13 @@
     "title": "Facebook",
     "url": "https://facebook.com",
     "favicon": "/placeholder.svg",
-    "createdBy": "Sultan",
-    "category": "created",
-    "date": ""
+    "createdBy": "Sultan"
   },
   {
     "id": "custom-2",
     "title": "Twitter",
     "url": "https://twitter.com",
     "favicon": "/placeholder.svg",
-    "createdBy": "Sultan",
-    "category": "created",
-    "date": ""
-  },
-  {
-    "id": "custom-3",
-    "title": "LinkedIn",
-    "url": "https://linkedin.com",
-    "favicon": "/placeholder.svg",
-    "createdBy": "Sultan",
-    "category": "created",
-    "date": ""
-  },
-  {
-    "id": "custom-4",
-    "title": "Portfolio",
-    "url": "https://sultanarabi.pages.dev",
-    "favicon": "/placeholder.svg",
-    "createdBy": "Sultan",
-    "category": "created",
-    "date": ""
+    "createdBy": "Sultan"
   }
 ]
