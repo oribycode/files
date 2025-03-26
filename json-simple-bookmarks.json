@@ -495,5 +495,229 @@
     "url": "https://projects-media.vercel.app/projects/iptv/fm_radio.html",
     "favicon": "/placeholder.svg",
     "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-72",
+    "title": "Live Streamo",
+    "url": "https://livestreamo.onrender.com/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-73",
+    "title": "MX Live",
+    "url": "https://mxlive.vercel.app/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-74",
+    "title": "Orbify",
+    "url": "http://orbify.42web.io/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-75",
+    "title": "IPTV v1.6",
+    "url": "https://projects-media.vercel.app/projects/iptv/index_v1.6.html",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-76",
+    "title": "Projects Info",
+    "url": "https://bookmarks-web.netlify.app/projects/info.html",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-77",
+    "title": "M3U Player",
+    "url": "https://bookmarks-web.netlify.app/projects/m3u_player/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-78",
+    "title": "Orbit Live",
+    "url": "https://bookmarks-web.netlify.app/projects/orbit_live/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-79",
+    "title": "Projects Index",
+    "url": "https://bookmarks-web.netlify.app/projects/index/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-80",
+    "title": "Projects Lite",
+    "url": "https://bookmarks-web.netlify.app/projects/lite/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-81",
+    "title": "IPTV",
+    "url": "https://bookmarks-web.netlify.app/projects/iptv/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-82",
+    "title": "Stop Less Player",
+    "url": "https://bookmarks-web.netlify.app/live/stop_less_player/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-83",
+    "title": "Oriby Web",
+    "url": "http://oriby.42web.io/?i=1",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-84",
+    "title": "Orbit Lite",
+    "url": "http://orbit-lite.42web.io/?i=1",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-85",
+    "title": "Lite Wuaze",
+    "url": "http://lite.wuaze.com/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-86",
+    "title": "IBN Stream",
+    "url": "https://ibn-stream.netlify.app/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-87",
+    "title": "Cracker IPTV",
+    "url": "https://cracker-iptv.vercel.app/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-88",
+    "title": "Simple Live",
+    "url": "https://simple-live.vercel.app/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-89",
+    "title": "Orit Wuaze",
+    "url": "http://orit.wuaze.com/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-90",
+    "title": "Frid TV",
+    "url": "https://bookmarks-web.netlify.app/projects/frid_tv/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-91",
+    "title": "Custom Projects",
+    "url": "https://bookmarks-web.netlify.app/projects/custom/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-92",
+    "title": "Orbit Live TV",
+    "url": "https://orbitlive.vercel.app/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-93",
+    "title": "Lite TV",
+    "url": "https://litetv.netlify.app/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-94",
+    "title": "Lite Stream",
+    "url": "https://lite-stream-zagn.onrender.com/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-95",
+    "title": "Oriby Free",
+    "url": "http://oriby.free.nf/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-96",
+    "title": "Live TV6+",
+    "url": "https://sultanarabi161.github.io/live-server/live.tv6+/index.html",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-97",
+    "title": "Live TV3",
+    "url": "https://sultanarabi161.github.io/live-server/live-tv3/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-98",
+    "title": "Live TV",
+    "url": "https://sultanarabi161.github.io/live-server/live-tv/index.html",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-99",
+    "title": "Orbify TV",
+    "url": "https://projects-media.vercel.app/projects/iptv/orbify.html",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-100",
+    "title": "Plus TV",
+    "url": "https://projects-media.vercel.app/projects/iptv/plus_tv.html",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-101",
+    "title": "Stream Orbit",
+    "url": "https://projects-media.vercel.app/projects/iptv/stream_orbit/index.html",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-102",
+    "title": "IBN Stream TV",
+    "url": "https://projects-media.vercel.app/projects/iptv/ibn_stream.html",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-103",
+    "title": "Crack TV",
+    "url": "https://projects-media.vercel.app/projects/iptv/crack_tv.html",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
   }
 ]
