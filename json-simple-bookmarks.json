@@ -1,0 +1,47 @@
+[
+  {
+    "id": "github-1",
+    "title": "GitHub - Main",
+    "url": "https://github.com",
+    "favicon": "/placeholder.svg",
+    "createdBy": "GitHub Sync",
+    "category": "created",
+    "date": "Mar 25"
+  },
+  {
+    "id": "github-2",
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "favicon": "/placeholder.svg",
+    "createdBy": "GitHub Sync",
+    "category": "created",
+    "date": "Mar 25"
+  },
+  {
+    "id": "github-3",
+    "title": "Stack Overflow",
+    "url": "https://stackoverflow.com",
+    "favicon": "/placeholder.svg",
+    "createdBy": "GitHub Sync",
+    "category": "created",
+    "date": "Mar 25"
+  },
+  {
+    "id": "github-4",
+    "title": "React Documentation",
+    "url": "https://react.dev",
+    "favicon": "/placeholder.svg",
+    "createdBy": "GitHub Sync",
+    "category": "created",
+    "date": "Mar 25"
+  },
+  {
+    "id": "github-5",
+    "title": "Tailwind CSS",
+    "url": "https://tailwindcss.com",
+    "favicon": "/placeholder.svg",
+    "createdBy": "GitHub Sync",
+    "category": "created",
+    "date": "Mar 25"
+  }
+]
