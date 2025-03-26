@@ -25,5 +25,14 @@
     "createdBy": "Sultan",
     "category": "created",
     "date": ""
+  },
+  {
+    "id": "custom-3",
+    "title": "Portfolio",
+    "url": "https://sultanarabi.pages.dev",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan",
+    "category": "created",
+    "date": ""
   }
 ]
