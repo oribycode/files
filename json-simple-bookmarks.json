@@ -719,5 +719,47 @@
     "url": "https://projects-media.vercel.app/projects/iptv/crack_tv.html",
     "favicon": "/placeholder.svg",
     "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-104",
+    "title": "Oriby Bin Pages",
+    "url": "https://oriby-bin.pages.dev/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-105",
+    "title": "Live Timeo",
+    "url": "https://livetimeo.onrender.com",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-106",
+    "title": "Live Camera Photo",
+    "url": "https://livecamerao.onrender.com/photo",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-107",
+    "title": "Live Camera",
+    "url": "https://livecamerao.onrender.com/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-108",
+    "title": "Check IPTV",
+    "url": "https://projects-media.vercel.app/projects/iptv/check_iptv.html",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-109",
+    "title": "M3U Playlist Manager",
+    "url": "https://projects-media.vercel.app/projects/iptv/M3U%20Playlist%20Manager.html",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
   }
 ]
