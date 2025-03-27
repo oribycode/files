@@ -761,5 +761,12 @@
     "url": "https://projects-media.vercel.app/projects/iptv/M3U%20Playlist%20Manager.html",
     "favicon": "/placeholder.svg",
     "createdBy": "Sultan"
+  },
+  {
+    "id": "custom-110",
+    "title": "Oriby Android TV",
+    "url": "https://oriby.netlify.app/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
   }
 ]
