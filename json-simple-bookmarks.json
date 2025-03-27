@@ -768,5 +768,19 @@
     "url": "https://oriby.netlify.app/",
     "favicon": "/placeholder.svg",
     "createdBy": "Sultan"
-  }
+  },
+  {
+    "id": "custom-111",
+    "title": "Nex Live",
+    "url": "https://oribycode.github.io/Nex-Live/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+},
+{
+    "id": "custom-112",
+    "title": "Fax TV",
+    "url": "https://oribycode.github.io/fax_tv/",
+    "favicon": "/placeholder.svg",
+    "createdBy": "Sultan"
+}
 ]
