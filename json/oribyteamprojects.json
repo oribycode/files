@@ -1,1 +1,64 @@
-0
+{
+    "projects": [
+        {
+            "name": "Premium Subscription Store",
+            "category": "work",
+            "icon": "fas fa-briefcase",
+            "url": "https://oribycode.pages.dev/store"
+        },
+        {
+            "name": "Digital Business Card",
+            "category": "portfolio",
+            "icon": "fas fa-folder-open",
+            "url": "https://oribycode.pages.dev/card"
+        },
+        {
+            "name": "Personal Blog",
+            "category": "personal",
+            "icon": "fas fa-user",
+            "url": "https://oribycode.pages.dev/blog"
+        },
+        {
+            "name": "IPTV Service Manager",
+            "category": "iptv",
+            "icon": "fas fa-tv",
+            "url": "https://oribycode.pages.dev/iptv"
+        },
+        {
+            "name": "Project Management Tool",
+            "category": "work",
+            "icon": "fas fa-briefcase",
+            "url": "https://oribycode.pages.dev/management"
+        },
+        {
+            "name": "Social Media Dashboard",
+            "category": "social",
+            "icon": "fas fa-share-alt",
+            "url": "https://oribycode.pages.dev/social"
+        },
+        {
+            "name": "Portfolio Website",
+            "category": "portfolio",
+            "icon": "fas fa-folder-open",
+            "url": "https://oribycode.pages.dev/portfolio"
+        },
+        {
+            "name": "Task Manager",
+            "category": "personal",
+            "icon": "fas fa-user",
+            "url": "https://oribycode.pages.dev/tasks"
+        },
+        {
+            "name": "Streaming Platform",
+            "category": "iptv",
+            "icon": "fas fa-tv",
+            "url": "https://oribycode.pages.dev/stream"
+        },
+        {
+            "name": "Community Forum",
+            "category": "social",
+            "icon": "fas fa-share-alt",
+            "url": "https://oribycode.pages.dev/forum"
+        }
+    ]
+}
